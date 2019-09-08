@@ -53,6 +53,16 @@ Contents
 
 .. _index/distributions:
 
+Overview
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   getting-started/what-is-jupyterhub
+
+
+
 Distributions
 -------------
 

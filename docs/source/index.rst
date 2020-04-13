@@ -26,7 +26,7 @@ Four subsystems make up JupyterHub:
 * an **authentication class** that manages how users can access the system
 
 
-Besides these central pieces, you can add optional configurations through a `config.py` file and manage users kernels on an admin panel. A simplification of the whole system can be seen in the figure below:
+Besides these central pieces, you can add optional configurations through a `config.py` file and manage users kernels on an admin panel. A very detailed explination can be found in ":doc:`What is JupyteHub? <getting-started/what-is-jupyterhub>`". A simplification of the whole system can be seen in the figure below:
 
 .. image:: images/jhub-fluxogram.jpeg
    :alt: JupyterHub subsystems

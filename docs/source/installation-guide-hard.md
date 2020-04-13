@@ -10,7 +10,9 @@ of a machine and share it within your lab, or use a virtual machine from any VPS
 This guide has similar goals to [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io) setup
 script. However, instead of bundling all these step for you into one installer, we will perform every step manually.
 This makes it easy to customize any part (e.g. if you want to run other services on the same system and need to make them
-work together), as well as giving you full control and understanding of your setup.
+work together), as well as giving you full control and understanding of your setup.  To understand everything you do here,
+you might want to read [what is JupyterHub](getting-started/what-is-jupyterhub.html) first, which will tell you how the
+pieces here relate and what they actually do.
 
 
 ## Prerequisites
